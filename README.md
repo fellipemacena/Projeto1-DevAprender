@@ -77,3 +77,7 @@ Obs: Para verificar que está efetuando o merge nas versões mais atuais dos arq
 - Git Pull
 - Mergear (unir) o código da branch temporária com a branch principal
 - Git push da branch principal
+
+Git ignore:
+- comando: touch .gitignore
+- Criado o arquivo txt e dentro dele poderão ser incluídos os arquivos que você deseja que não entrem no versionamento. 
