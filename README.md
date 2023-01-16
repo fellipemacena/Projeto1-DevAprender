@@ -9,7 +9,7 @@ Passo a Passo Git / GitHub:
 - criar o arquivo com linha de texto dentro
 - para verificar o status do repositório
 - comando: git status
-- caso haja "No commits uet", significa que não há versões do código. Commits significa versões.
+- caso haja "No commits yet", significa que não há versões do código. A palavra Commits significa versões.
 - Caso haja "Untracked files:"  ele irá indicar quais arquivos não estão no controle de versão
 - Para adicionar ao controle de versão basta digitar
 - comando:  git add "nome do arquivo" (incluindo sua extensão - conforme o Untracked files)
@@ -35,10 +35,11 @@ config --global user.email  "e-mail"
 Para enviar pro GitHub:
 - Criar conta no GitHub
 - Criar um novo repositório 
-- Copiar a URL da página da raíz do repositório criado
+- Copiar a URL da página do repositório criado
 - Ir para o GitBash e digitar 
-- comando: git remote add origin (defigit nição para onde o código será enviado)
+- comando: git remote add origin (definição para onde o código será enviado)
 - depois digitar
+- comando: git push (porém ele vai pedir para digitar o comando abaixo)
 - comando: git push --set-upstream origin master 
 
 Para atualizações futuras:
