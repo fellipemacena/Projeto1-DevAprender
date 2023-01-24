@@ -31,6 +31,8 @@ após o código precisa aparecer uma mensagem semelhante a essa:
 - Caso não seja executado provavelmente irá pedir para digitar os seguintes comando:
 config --global user.email  "e-mail"
  config --global user.name "Your Name"
+ 
+ Obs: antes de fazer um git push é bom fazer um git pull e baixar a última versão dos documentos para evitar conflito.
 
 Para enviar pro GitHub:
 - Criar conta no GitHub
