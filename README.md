@@ -1,6 +1,5 @@
-# Projeto1-DevAprender
-Tutorial versionamento Git/GitHub - Dev Aprender
-https://www.youtube.com/watch?v=kB5e-gTAl_s
+# Tutorial versionamento Git/GitHub (básico)
+# Curso Dev Aprender https://www.youtube.com/watch?v=kB5e-gTAl_s
 
 Passo a Passo Git / GitHub:
 
@@ -39,7 +38,7 @@ Para enviar pro GitHub:
 - Criar um novo repositório 
 - Copiar a URL da página do repositório criado
 - Ir para o GitBash e digitar 
-- comando: git remote add origin (definição para onde o código será enviado)
+- comando: git remote add origin url (definição para onde o código será enviado)
 - depois digitar
 - comando: git push (porém ele vai pedir para digitar o comando abaixo)
 - comando: git push --set-upstream origin master 
@@ -83,4 +82,4 @@ Obs: Para verificar que está efetuando o merge nas versões mais atuais dos arq
 
 Git ignore:
 - comando: touch .gitignore
-- Criado o arquivo txt e dentro dele poderão ser incluídos os arquivos que você deseja que não entrem no versionamento. 
+- Criado o arquivo txt e dentro dele poderão ser incluídos os arquivos que você deseja que não entrem no versionamento.
